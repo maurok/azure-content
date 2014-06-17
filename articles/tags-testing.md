@@ -1,6 +1,6 @@
 <properties title="required" pageTitle="required" description="required" metaKeywords="" services="" solutions="" documentationCenter="" authors="" videoId="" scriptId="" />
 
-<tags ms.service="ServiceX" ms.author="mauro" ms.date="06/15/1976" ms.devlang="CSharp" ms.topic="HomePage" ms.pltfrm="Windows" ms.workload="50" ms.extra="extra-unrecognized" />
+<tags ms.service="ServiceX" ms.author="maurok;;tito@mail.org" ms.date="06/15/1976" ms.devlang="CSharp" ms.topic="HomePage" ms.pltfrm="Windows" ms.workload="50" ms.extra="extra-unrecognized" />
 
 <!--The next line, with one pound sign at the beginning, is the page title--> 
 # H1 (Article Title) 
