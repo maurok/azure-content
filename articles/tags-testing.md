@@ -3,6 +3,7 @@
 <!--Properties section: this is required in all topics. Please fill it out!-->
 <properties title="required" pageTitle="required" description="required" metaKeywords="" services="" solutions="" documentationCenter="" authors="" videoId="" scriptId="" />
 
+<!--Tag section: this is optional-->
 <tags ms.service="ServiceX" ms.author="mauro" ms.date="06/15/1976" />
 
 <!--The next line, with one pound sign at the beginning, is the page title--> 
