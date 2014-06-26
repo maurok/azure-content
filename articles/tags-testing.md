@@ -1,6 +1,6 @@
 <properties title="required" pageTitle="required" description="required" metaKeywords="" services="" solutions="" documentationCenter="" authors="" videoId="" scriptId="" />
 
-<tags ms.tgt_pltfrm="cache-redis" ms.service="mobile-services" ms.topic="Campaign-Page" ms.workload="integration" ms.devlang="multiple" ms.date="06/20/2014" ms.author="tysonn;mollybos;glenga;" />
+<tags ms.tgt_pltfrm="cache-redis" ms.service="mobile-services" ms.topic="campaign-page" ms.workload="integration" ms.devlang="multiple" ms.date="06/20/2014" ms.author="tysonn;mollybos;glenga;" />
 
 <!--The next line, with one pound sign at the beginning, is the page title--> 
 # H1 (Article Title) 
